@@ -1,4 +1,6 @@
-# PyGitHub
+# PyGitHub-ReadOnly
+
+PyGitHub-ReadOnly is a fork of [PyGitHub](https://github.com/PyGithub/PyGithub) that supports creating read-only deploy keys. This functionality is available in pull requests to PyGitHub. See [here](https://github.com/PyGithub/PyGithub/pull/467) and [here](https://github.com/PyGithub/PyGithub/pull/570). Once this functionality is available in versions of PyGitHub available on PyPi, expect this fork to be deprecated.
 
 [![Build Status](https://travis-ci.org/PyGithub/PyGithub.svg?branch=master)](https://travis-ci.org/PyGithub/PyGithub)
 [![PyPi](https://img.shields.io/pypi/dm/pygithub.svg)](https://pypi.python.org/pypi?%3Aaction=search&term=pygithub&submit=search)
