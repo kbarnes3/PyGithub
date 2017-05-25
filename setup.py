@@ -28,14 +28,14 @@
 import setuptools
 import textwrap
 
-version = "1.34"
+version = "1.34.readonly.1"
 
 
 if __name__ == "__main__":
     setuptools.setup(
-        name="PyGithub",
+        name="PyGithub-ReadOnly",
         version=version,
-        description="Use the full Github API v3",
+        description="This fork of PyGithub provides support for read-only deploy keys",
         author="Vincent Jacques",
         author_email="vincent@vincent-jacques.net",
         url="http://pygithub.github.io/PyGithub/v1/index.html",
