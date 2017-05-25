@@ -36,9 +36,9 @@ if __name__ == "__main__":
         name="PyGithub-ReadOnly",
         version=version,
         description="This fork of PyGithub provides support for read-only deploy keys",
-        author="Vincent Jacques",
-        author_email="vincent@vincent-jacques.net",
-        url="http://pygithub.github.io/PyGithub/v1/index.html",
+        author="Kevin Barnes",
+        author_email="kbarnes3@gmail.com",
+        url="https://github.com/kbarnes3/PyGithub",
         long_description=textwrap.dedent("""\
             (Very short) Tutorial
             =====================
