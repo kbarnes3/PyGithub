@@ -28,7 +28,7 @@
 import setuptools
 import textwrap
 
-version = "1.34.post2"
+version = "1.34.post3"
 
 
 if __name__ == "__main__":
